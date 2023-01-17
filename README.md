@@ -27,4 +27,4 @@ Predicción polinomial
 
 ![polinomial](/capturas/polinomial.png)
 
-Si quieres visualizar el proyecto completo puedes ir al [Google Colab](https://colab.research.google.com/drive/1r_sF_N04H1kgUHoXXkMip3H15fdrEA9L)
+Si quieres visualizar el proyecto completo puedes ir al [Google Colab](https://colab.research.google.com/drive/1r_sF_N04H1kgUHoXXkMip3H15fdrEA9L?usp=sharing)
